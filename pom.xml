@@ -12,9 +12,10 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <maven.compiler.sourse>17</maven.compiler.sourse>
-    <maven.compiler.target>17</maven.compiler.target>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+           <maven.compiler.sourse>17</maven.compiler.sourse>
+           <maven.compiler.target>17</maven.compiler.target>
+           <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
   </properties>
 
   <dependencies>
